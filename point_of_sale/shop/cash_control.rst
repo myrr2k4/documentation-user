@@ -1,5 +1,5 @@
 ===========================
-How to set up cash control?
+bow to set up cash control?
 ===========================
 
 Cash control permits you to check the amount of the cashbox at the
